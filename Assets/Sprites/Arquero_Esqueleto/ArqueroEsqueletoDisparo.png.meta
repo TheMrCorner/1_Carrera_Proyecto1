@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: ddd28cf11c2249342901fc04950ac4ef
+timeCreated: 1489249223
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ArqueroEsqueletoDisparo_0
+    21300002: ArqueroEsqueletoDisparo_1
+    21300004: ArqueroEsqueletoDisparo_2
+    21300006: ArqueroEsqueletoDisparo_3
+    21300008: ArqueroEsqueletoDisparo_4
+    21300010: ArqueroEsqueletoDisparo_5
+    21300012: ArqueroEsqueletoDisparo_6
+    21300014: ArqueroEsqueletoDisparo_7
+    21300016: ArqueroEsqueletoDisparo_8
+    21300018: ArqueroEsqueletoDisparo_9
+    21300020: ArqueroEsqueletoDisparo_10
+    21300022: ArqueroEsqueletoDisparo_11
+    21300024: ArqueroEsqueletoDisparo_12
+    21300026: ArqueroEsqueletoDisparo_13
+    21300028: ArqueroEsqueletoDisparo_14
+    21300030: ArqueroEsqueletoDisparo_15
+    21300032: ArqueroEsqueletoDisparo_16
+    21300034: ArqueroEsqueletoDisparo_17
+    21300036: ArqueroEsqueletoDisparo_18
+    21300038: ArqueroEsqueletoDisparo_19
+    21300040: ArqueroEsqueletoDisparo_20
+    21300042: ArqueroEsqueletoDisparo_21
+    21300044: ArqueroEsqueletoDisparo_22
+    21300046: ArqueroEsqueletoDisparo_23
+    21300048: ArqueroEsqueletoDisparo_24
+    21300050: ArqueroEsqueletoDisparo_25
+    21300052: ArqueroEsqueletoDisparo_26
+    21300054: ArqueroEsqueletoDisparo_27
+    21300056: ArqueroEsqueletoDisparo_28
+    21300058: ArqueroEsqueletoDisparo_29
+    21300060: ArqueroEsqueletoDisparo_30
+    21300062: ArqueroEsqueletoDisparo_31
+    21300064: ArqueroEsqueletoDisparo_32
+    21300066: ArqueroEsqueletoDisparo_33
+    21300068: ArqueroEsqueletoDisparo_34
+    21300070: ArqueroEsqueletoDisparo_35
+    21300072: ArqueroEsqueletoDisparo_36
+    21300074: ArqueroEsqueletoDisparo_37
+    21300076: ArqueroEsqueletoDisparo_38
+    21300078: ArqueroEsqueletoDisparo_39
+    21300080: ArqueroEsqueletoDisparo_40
+    21300082: ArqueroEsqueletoDisparo_41
+    21300084: ArqueroEsqueletoDisparo_42
+    21300086: ArqueroEsqueletoDisparo_43
+    21300088: ArqueroEsqueletoDisparo_44
+    21300090: ArqueroEsqueletoDisparo_45
+    21300092: ArqueroEsqueletoDisparo_46
+    21300094: ArqueroEsqueletoDisparo_47
+    21300096: ArqueroEsqueletoDisparo_48
+    21300098: ArqueroEsqueletoDisparo_49
+    21300100: ArqueroEsqueletoDisparo_50
+    21300102: ArqueroEsqueletoDisparo_51
+    21300104: ArqueroEsqueletoDisparo_52
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 194
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 192
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 192
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 204
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_9
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 192
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 192
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 192
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 130
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 130
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 130
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 130
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 130
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_20
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 130
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 130
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 130
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_23
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 130
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_24
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 130
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_25
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 130
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_26
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 130
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_28
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 67
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 67
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 64
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 66
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_33
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 66
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_34
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 66
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 66
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_36
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 64
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_37
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 64
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_38
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 64
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_39
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 64
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_47
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_48
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_49
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_50
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_51
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArqueroEsqueletoDisparo_52
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

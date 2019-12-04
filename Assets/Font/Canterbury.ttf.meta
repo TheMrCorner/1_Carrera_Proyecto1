@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 50870b39eafb61f45967e821c33a2e78
+timeCreated: 1490356245
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Canterbury
+  fontNames:
+  - Canterbury
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

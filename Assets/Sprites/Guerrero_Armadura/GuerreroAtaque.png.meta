@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 2407533d39c410f40acfa54bacaf0b8e
+timeCreated: 1489146360
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GuerreroAtaque_0
+    21300002: GuerreroAtaque_1
+    21300004: GuerreroAtaque_2
+    21300006: GuerreroAtaque_3
+    21300008: GuerreroAtaque_4
+    21300010: GuerreroAtaque_5
+    21300012: GuerreroAtaque_6
+    21300014: GuerreroAtaque_7
+    21300016: GuerreroAtaque_8
+    21300018: GuerreroAtaque_9
+    21300020: GuerreroAtaque_10
+    21300022: GuerreroAtaque_11
+    21300024: GuerreroAtaque_12
+    21300026: GuerreroAtaque_13
+    21300028: GuerreroAtaque_14
+    21300030: GuerreroAtaque_15
+    21300032: GuerreroAtaque_16
+    21300034: GuerreroAtaque_17
+    21300036: GuerreroAtaque_18
+    21300038: GuerreroAtaque_19
+    21300040: GuerreroAtaque_20
+    21300042: GuerreroAtaque_21
+    21300044: GuerreroAtaque_22
+    21300046: GuerreroAtaque_23
+    21300048: GuerreroAtaque_24
+    21300050: GuerreroAtaque_25
+    21300052: GuerreroAtaque_26
+    21300054: GuerreroAtaque_27
+    21300056: GuerreroAtaque_28
+    21300058: GuerreroAtaque_29
+    21300060: GuerreroAtaque_30
+    21300062: GuerreroAtaque_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuerreroAtaque_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 194
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 192
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 192
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 192
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 192
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 192
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 51
+        height: 49
+      alignment: 9
+      pivot: {x: 0.61103714, y: 0.489856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 129
+        width: 54
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5372769, y: 0.4876242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 129
+        width: 54
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5388421, y: 0.488706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 128
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48085445, y: 0.50248474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 128
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5469417, y: 0.5024847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.60493016, y: 0.5024847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 128
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.56295776, y: 0.5024847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_15
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 128
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5069947, y: 0.5024847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 65
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 65
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 65
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 65
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 65
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 65
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_30
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GuerreroAtaque_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: 6bb637824b5a87945842702fdebf54cc
+timeCreated: 1487518333
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero_0
+    21300002: Hero_1
+    21300004: Hero_2
+    21300006: Hero_3
+    21300008: Hero_4
+    21300010: Hero_5
+    21300012: Hero_6
+    21300014: Hero_7
+    21300016: Hero_8
+    21300018: Hero_9
+    21300020: Hero_10
+    21300022: Hero_11
+    21300024: Hero_12
+    21300026: Hero_13
+    21300028: Hero_14
+    21300030: Hero_15
+    21300032: Hero_16
+    21300034: Hero_17
+    21300036: Hero_18
+    21300038: Hero_19
+    21300040: Hero_20
+    21300042: Hero_21
+    21300044: Hero_22
+    21300046: Hero_23
+    21300048: Hero_24
+    21300050: Hero_25
+    21300052: Hero_26
+    21300054: Hero_27
+    21300056: Hero_28
+    21300058: Hero_29
+    21300060: Hero_30
+    21300062: Hero_31
+    21300064: Hero_32
+    21300066: Hero_33
+    21300068: Hero_34
+    21300070: Hero_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hero_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 195
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 195
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 194
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 193
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 194
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 195
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 194
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 193
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 194
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25.5}
+        - {x: -18, y: 22.5}
+        - {x: -18, y: -25.5}
+        - {x: 10, y: -25.5}
+        - {x: 18, y: -0.5}
+        - {x: 18, y: 24.5}
+        - {x: 13, y: 25.5}
+    - name: Hero_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 130
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 25}
+        - {x: -8, y: 25}
+        - {x: -18, y: 22}
+        - {x: -18, y: -24}
+        - {x: -17, y: -25}
+        - {x: 8, y: -25}
+        - {x: 10, y: -23}
+        - {x: 18, y: 12}
+    - name: Hero_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25}
+        - {x: -18, y: 21}
+        - {x: -18, y: -25}
+        - {x: 5, y: -25}
+        - {x: 7, y: -24}
+        - {x: 18, y: 15}
+        - {x: 18, y: 25}
+    - name: Hero_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 131
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -18, y: 22}
+        - {x: -18, y: -4}
+        - {x: -16, y: -20}
+        - {x: -11, y: -25}
+        - {x: 10, y: -25}
+        - {x: 18, y: -2}
+        - {x: 18, y: 24}
+        - {x: 13, y: 25}
+    - name: Hero_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25.5}
+        - {x: -18, y: 22.5}
+        - {x: -18, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 18, y: -6.5}
+        - {x: 18, y: 24.5}
+        - {x: 14, y: 25.5}
+    - name: Hero_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 25}
+        - {x: -11, y: 25}
+        - {x: -18, y: 22}
+        - {x: -18, y: -25}
+        - {x: 6, y: -25}
+        - {x: 8, y: -23}
+        - {x: 15, y: -14}
+        - {x: 18, y: 3}
+    - name: Hero_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25.5}
+        - {x: -18, y: 22.5}
+        - {x: -18, y: -6.5}
+        - {x: -16, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 18, y: -12.5}
+        - {x: 18, y: 24.5}
+        - {x: 14, y: 25.5}
+    - name: Hero_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 25.5}
+        - {x: -12, y: 25.5}
+        - {x: -18, y: 22.5}
+        - {x: -18, y: -0.5}
+        - {x: -15, y: -20.5}
+        - {x: -10, y: -25.5}
+        - {x: 3, y: -25.5}
+        - {x: 9, y: -21.5}
+        - {x: 18, y: 13.5}
+        - {x: 18, y: 24.5}
+    - name: Hero_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25.5}
+        - {x: -18, y: 20.5}
+        - {x: -18, y: 7.5}
+        - {x: -12, y: -25.5}
+        - {x: 9, y: -25.5}
+        - {x: 18, y: 13.5}
+        - {x: 18, y: 24.5}
+        - {x: 13, y: 25.5}
+    - name: Hero_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 65
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 65
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 66
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 65
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_26
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 65
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Hero_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 25.5}
+        - {x: -18, y: 25.5}
+        - {x: -18, y: 11.5}
+        - {x: -6, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 17, y: -24.5}
+        - {x: 18, y: -3.5}
+        - {x: 18, y: 21.5}
+    - name: Hero_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: 8}
+        - {x: -12, y: -19}
+        - {x: -9, y: -25}
+        - {x: 18, y: -25}
+        - {x: 18, y: 22}
+        - {x: 12, y: 25}
+    - name: Hero_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: 4}
+        - {x: -6, y: -25}
+        - {x: 18, y: -25}
+        - {x: 18, y: 20}
+        - {x: 13, y: 25}
+    - name: Hero_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 25}
+        - {x: -18, y: 25}
+        - {x: -18, y: 16}
+        - {x: -14, y: 10}
+        - {x: -12, y: -15}
+        - {x: -3, y: -25}
+        - {x: 11, y: -25}
+        - {x: 17, y: -20}
+        - {x: 18, y: -9}
+        - {x: 18, y: 23}
+    - name: Hero_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 25.5}
+        - {x: -18, y: 25.5}
+        - {x: -18, y: -7.5}
+        - {x: -17, y: -15.5}
+        - {x: -9, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 17, y: -23.5}
+        - {x: 18, y: -10.5}
+        - {x: 18, y: 22.5}
+    - name: Hero_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: -5}
+        - {x: -11, y: -25}
+        - {x: 18, y: -25}
+        - {x: 18, y: 24}
+        - {x: 15, y: 25}
+    - name: Hero_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 0.5}
+        - {x: -9, y: -25.5}
+        - {x: 18, y: -25.5}
+        - {x: 18, y: 25.5}
+    - name: Hero_34
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -3.5}
+        - {x: -12, y: -25.5}
+        - {x: 12, y: -25.5}
+        - {x: 18, y: -7.5}
+        - {x: 18, y: 21.5}
+        - {x: 14, y: 25.5}
+    - name: Hero_35
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: 12.5}
+        - {x: -12, y: -9.5}
+        - {x: -7, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 18, y: -11.5}
+        - {x: 18, y: 21.5}
+        - {x: 14, y: 25.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
